@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dragonnest-landing.pages.dev/sitemap.xml
